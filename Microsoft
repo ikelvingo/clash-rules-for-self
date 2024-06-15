@@ -1,4 +1,5 @@
 # 从花朵云规则截取
+payload:
  - DOMAIN,github-cloud.s3.amazonaws.com
  - DOMAIN,vsmarketplacebadge.apphb.com
  - DOMAIN-SUFFIX,21vbc.com
